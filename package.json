@@ -1,19 +1,20 @@
 {
   "name": "hololearn-ai",
   "version": "2.0.0",
-  "description": "HoloLearn AI — Touch Knowledge. Explore Reality. AI-powered interactive 3D learning laboratory operated via hand gestures, WebGL2 GPU particles, voice synthesis, and multi-provider AI tutor.",
+  "description": "Nexora — AI-powered gesture-controlled 3D learning platform using MediaPipe, WebGL2 GPU particles, voice interaction, and AI tutoring.",
   "type": "module",
   "engines": {
-    "node": ">=18"
+    "node": ">=20"
   },
   "scripts": {
     "start": "node server.mjs",
+    "build": "node scripts/build.mjs",
     "test": "playwright test",
     "test:report": "playwright show-report"
-    "build": "node scripts/build.mjs"
   },
   "keywords": [
     "hololearn-ai",
+    "nexora",
     "education",
     "mediapipe",
     "webgl2",
