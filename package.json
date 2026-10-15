@@ -10,6 +10,7 @@
     "start": "node server.mjs",
     "test": "playwright test",
     "test:report": "playwright show-report"
+    "build": "node scripts/build.mjs"
   },
   "keywords": [
     "hololearn-ai",
