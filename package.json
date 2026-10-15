@@ -1,14 +1,14 @@
+
 {
   "name": "hololearn-ai",
   "version": "2.0.0",
-  "description": "Nexora — AI-powered gesture-controlled 3D learning platform using MediaPipe, WebGL2 GPU particles, voice interaction, and AI tutoring.",
+  "description": "Nexora — AI-powered gesture-controlled 3D learning platform",
   "type": "module",
   "engines": {
     "node": ">=20"
   },
   "scripts": {
     "start": "node server.mjs",
-    "build": "node scripts/build.mjs",
     "test": "playwright test",
     "test:report": "playwright show-report"
   },
@@ -18,12 +18,8 @@
     "education",
     "mediapipe",
     "webgl2",
-    "gpu-particles",
     "hand-tracking",
-    "gestures",
-    "stem",
-    "ai-tutor",
-    "interactive-learning"
+    "ai-tutor"
   ],
   "license": "MIT",
   "dependencies": {
