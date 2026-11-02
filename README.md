@@ -23,7 +23,6 @@
 
 <p align="center">
   <a href="#-overview">Overview</a> •
-  <a href="#-features">Features</a> •
   <a href="#-screenshots">Screenshots</a> •
   <a href="#-getting-started">Installation</a> •
   <a href="#-architecture">Architecture</a> •
@@ -59,12 +58,13 @@ Instead of simply reading about complex concepts, users can explore their struct
 ### Application Preview
 
 <p align="center">
-  <img src="docs/screenshots/human-heart.png" width="49%" alt="Human Heart 3D visualization" />
-  <img src="docs/screenshots/dna-double-helix.png" width="49%" alt="DNA Double Helix visualization" />
+  <img src="docs/human-heart.png" width="45%" alt="Human Heart 3D visualization" />
+  
+  <img src="docs/dna-double-helix.png" width="45%" alt="DNA Double Helix visualization" />
 </p>
 
 <p align="center">
-  <img src="docs/screenshots/holo-tutor.png" width="90%" alt="Nexora AI Holo Tutor interface" />
+  <img src="docs/holo-tutor.png" width="30%" height="450" alt="Nexora AI Holo Tutor interface" />
 </p>
 
 ---
