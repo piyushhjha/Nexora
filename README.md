@@ -2,7 +2,7 @@
 ### Touch Knowledge. Explore Reality.
 
 <p align="center">
-  <img src="docs/screenshots/nexora-banner.png" alt="Nexora AI Banner" width="100%" />
+  <img src="docs/nexora-banner.png" alt="Nexora AI Banner" width="100%" />
 </p>
 
 <p align="center">
